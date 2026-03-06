@@ -27,7 +27,8 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='PASTE_GIF_URL_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Animation](https://github.com/user-attachments/assets/cd59f651-7a84-49f2-87d1-afbadeb4044e)
+
 
 GIF created with [ScreenToGif](https://www.screentogif.com/)
 
@@ -35,8 +36,4 @@ GIF created with [ScreenToGif](https://www.screentogif.com/)
 
 The main challenge was setting up Vite and connecting all the components together for the first time.
 
-## License
 
-Copyright **2026** **Ryan A**
-
-Licensed under the Apache License, Version 2.0
